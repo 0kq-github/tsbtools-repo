@@ -7,5 +7,14 @@
     "description_url":"",
     "download_url": "",
     "version": ""
+  },
+  {
+    "name": "dummy",
+    "github_url":"",
+    "github_branch":"",
+    "filename":"",
+    "description_url":"https://raw.githubusercontent.com/0kq-github/tsbtools-repo/main/README.md",
+    "download_url":"https://raw.githubusercontent.com/0kq-github/tsbtools-repo/main/README.md",
+    "version":"v0.0"
   }
 ]
