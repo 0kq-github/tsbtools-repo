@@ -1,12 +1,23 @@
 [
   {
-    "name": "TSB-Extended",
+    "name": "",
+    "author": "",
     "github_url":"https://github.com/haiiro2gou/TSB-Extended",
     "github_branch": "master",
     "filename":"TSB-haiiro-addon.zip",
     "description_url":"",
     "download_url": "",
     "version": ""
+  },
+  {
+    "name": "神器追加データパック",
+    "author":"Syareene",
+    "github_url":"",
+    "github_branch":"",
+    "filename":"",
+    "description_url":"https://raw.githubusercontent.com/0kq-github/tsbtools-repo/main/Syareene/syareene_TSBExpansion_v2.0.md",
+    "download_url":"https://github.com/Syareene/my_all_project/releases/download/syareene_TSBexpansion_v2.0/sacred_treasure_add.zip",
+    "version":"v2.0"
   },
   {
     "name": "dummy",
