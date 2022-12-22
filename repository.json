@@ -10,14 +10,24 @@
     "version": ""
   },
   {
-    "name": "神器追加データパック",
+    "name": "TheSkyBlessing 神器追加データパックv2.1",
     "author":"Syareene",
     "github_url":"",
     "github_branch":"",
     "filename":"",
     "description_url":"https://raw.githubusercontent.com/0kq-github/tsbtools-repo/main/Syareene/syareene_TSBExpansion_v2.0.md",
-    "download_url":"https://github.com/Syareene/my_all_project/releases/download/syareene_TSBexpansion_v2.0/sacred_treasure_add.zip",
+    "download_url":"https://github.com/Syareene/my_all_project/releases/download/additional_utilities_v2.1/sacred_treasure_addon.zip",
     "version":"v2.0"
+  },
+  {
+    "name": "TheSkyBlessingでスライム沸かせなくするやつ",
+    "author": "Syareene",
+    "github_url":"",
+    "github_branch":"",
+    "filename":"",
+    "description_url":"https://raw.githubusercontent.com/0kq-github/tsbtools-repo/main/README.md",
+    "download_url":"https://github.com/Syareene/my_all_project/releases/download/no_slime_TSB/no_slime_datapack.zip",
+    "version":""
   },
   {
     "name": "dummy",
